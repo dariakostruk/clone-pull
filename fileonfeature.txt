@@ -1,2 +1,3 @@
 this is my file on feature branch
 added soem lines to addited file
+new line from new branch
